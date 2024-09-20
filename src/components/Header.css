@@ -1,0 +1,14 @@
+.boxing-glove-image {
+  max-height: 250px;
+  width: 800px;
+  margin-top: 1px;
+  border-radius: 19px;
+  object-fit: scale-down;
+}
+
+.header-text {
+  font-size: 100px;
+  color: white;
+  text-shadow: 5px 5px 5px black;
+  margin-top: 3px;
+}
