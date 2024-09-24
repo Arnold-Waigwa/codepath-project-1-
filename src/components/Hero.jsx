@@ -59,6 +59,38 @@ const Hero = ({ clubName }) => {
           <button>view website</button>
         </a>
       </div>
+      <div className="card">
+        <img className="img" src="/assets/boxing7.jpeg" alt="boxing gloves" />
+        <h3>Courage Boxing Gym</h3>
+        <h4>Ann Arbor</h4>
+        <a href="https://mayweather.fit/">
+          <button>view website</button>
+        </a>
+      </div>
+      <div className="card">
+        <img className="img" src="/assets/boxing8.jpg" alt="boxing gloves" />
+        <h3>TITLE Boxing Club</h3>
+        <h4>Farmington Hills</h4>
+        <a href="https://mayweather.fit/">
+          <button>view website</button>
+        </a>
+      </div>
+      <div className="card">
+        <img className="img" src="/assets/boxing9.jpg" alt="boxing gloves" />
+        <h3>Power Boxing and Fitness</h3>
+        <h4>Troy</h4>
+        <a href="https://powerboxingfitness.com/">
+          <button>view website</button>
+        </a>
+      </div>
+      <div className="card">
+        <img className="img" src="/assets/boxing10.jpeg" alt="boxing gloves" />
+        <h3>Eastern Market Boxing Gym</h3>
+        <h4>Detroit</h4>
+        <a href="https://mayweather.fit/">
+          <button>view website</button>
+        </a>
+      </div>
     </div>
   );
 };
