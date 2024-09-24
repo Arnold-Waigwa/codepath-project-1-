@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+- [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
@@ -28,14 +28,12 @@ Here's a walkthrough of implemented required features:
 
 <img src='prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
-GIF created with Licecap 
-
+GIF created with Licecap
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-I had a difficult time ensuring the CSS visualizes as I wanted to. 
+I had a difficult time ensuring the CSS visualizes as I wanted to.
 
 ## License
 
